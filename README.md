@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learner
 -------
 
-I am a student learning software engineer.
-
+💫 About Me:
+🔭 I’m currently studying in UTM learning software engineer.
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [nayeenj1@gmail.com](mailto:nayeenj1@gmail.com)
 * 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Meh...
+* ⚡  
 
 ### Skills
 
